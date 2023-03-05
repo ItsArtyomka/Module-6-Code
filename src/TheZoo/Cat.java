@@ -1,7 +1,7 @@
-package Inheritance.SkillFactory;
+package TheZoo;
 
 // Creating subclass Cat that inherits from parent class Animal
-class Cat extends Animal {
+public class Cat extends Animal {
 
     // This constructor calls the constructor from the superclass Animal
     // which allows the Cat constructor to "set" its own arguments
