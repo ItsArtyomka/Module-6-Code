@@ -1,7 +1,7 @@
 // This is a superclass Animal that is a parent class
 // for child class Cat.
 
-package Inheritance;
+package Inheritance.SkillFactory;
 
 @SuppressWarnings("FieldMayBeFinal") // <-- Для красоты кода.
 

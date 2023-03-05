@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.SkillFactory;
 
 public class Point {
     private double x, y;

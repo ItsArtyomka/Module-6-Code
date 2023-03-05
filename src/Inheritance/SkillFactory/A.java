@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.SkillFactory;
 
 class A {
     int a = 5;

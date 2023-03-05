@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.SkillFactory;
 
 // Creating subclass Cat that inherits from parent class Animal
 class Cat extends Animal {

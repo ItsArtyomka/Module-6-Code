@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.SkillFactory;
 
 @SuppressWarnings("CommentedOutCode") // To make the code nice :)
 
